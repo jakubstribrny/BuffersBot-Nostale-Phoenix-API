@@ -2,9 +2,10 @@
 
 A Python-based automation tool for managing buffer characters in NosTale using the Phoenix Bot API.
 
+
 ## Project Structure
 
-The project has been refactored into a modular architecture for better maintainability:
+The project has been refactored into a modular architecture for better maintainability by Ai. But its a still mess. It was coded in my dark times :D :
 
 ```
 Buffer API - source - FULL/
