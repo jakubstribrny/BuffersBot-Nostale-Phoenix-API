@@ -227,5 +227,4 @@ The refactoring provides several benefits:
 This project is for educational purposes. Ensure compliance with game terms of service before use.
 
 ## Credits
-
-Created by jakubstribrny
+me obviously but dont like use it :D Maybe learn something from it. and that is guys - Dont code everything in one file when you are dark minded.
